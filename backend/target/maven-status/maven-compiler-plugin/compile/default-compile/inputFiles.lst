@@ -1,1 +1,4 @@
 /home/thiagopc/Projetos_Portifolio/ServiceFlow/ServiceFlow/backend/src/main/java/com/thiagoferreira/ServiceFlow/ServiceFlowApplication.java
+/home/thiagopc/Projetos_Portifolio/ServiceFlow/ServiceFlow/backend/src/main/java/com/thiagoferreira/ServiceFlow/entities/User.java
+/home/thiagopc/Projetos_Portifolio/ServiceFlow/ServiceFlow/backend/src/main/java/com/thiagoferreira/ServiceFlow/enums/Role.java
+/home/thiagopc/Projetos_Portifolio/ServiceFlow/ServiceFlow/backend/src/main/java/com/thiagoferreira/ServiceFlow/resources/UserResources.java
